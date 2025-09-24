@@ -1,7 +1,10 @@
 Node version : v22.18.0
 > ⚠️ ขออภัย:  
-> -  Render การโหลดหน้าเว็บอาจช้า เพราะ Render  restart service 
+> -  Render การโหลดหน้าเว็บอาจช้า เพราะ Render  restart service
+> -  
+---
 Deploy in render : https://belusys-test.onrender.com/classroom
+
 SQL CODE ข้อ 3 : https://gist.github.com/s4kchai/5c8b355b049c035e5537e5e22e34b0c8
 
 #Step : 1 Clone Repo 
