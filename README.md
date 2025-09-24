@@ -1,4 +1,7 @@
 Node version : v22.18.0
+> ⚠️ ขออภัย:  
+> -  Render การโหลดหน้าเว็บอาจช้า เพราะ Render  restart service 
+Deploy in render : https://belusys-test.onrender.com/classroom
 
 Step : 1 Clone Repo 
 git clone https://github.com/s4kchai/Belusys-test
