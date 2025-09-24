@@ -8,8 +8,8 @@ Deploy in render : https://belusys-test.onrender.com/classroom
 SQL CODE ข้อ 3 : https://gist.github.com/s4kchai/5c8b355b049c035e5537e5e22e34b0c8
 
 #Step : 1 Clone Repo 
-git clone https://github.com/s4kchai/Belusys-test
-cd Belusys-test 
+- git clone https://github.com/s4kchai/Belusys-test
+- cd Belusys-test 
 
 
 #Step : 2 install dependencies 
