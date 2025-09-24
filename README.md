@@ -3,27 +3,28 @@ Node version : v22.18.0
 > -  Render การโหลดหน้าเว็บอาจช้า เพราะ Render  restart service 
 Deploy in render : https://belusys-test.onrender.com/classroom
 SQL CODE ข้อ 3 : https://gist.github.com/s4kchai/5c8b355b049c035e5537e5e22e34b0c8
-Step : 1 Clone Repo 
+
+#Step : 1 Clone Repo 
 git clone https://github.com/s4kchai/Belusys-test
 cd Belusys-test 
 
 
-Step : 2 install dependencies 
-# Backend
+#Step : 2 install dependencies 
+- Backend
 cd backend
 npm install
 
-# Frontend
+- Frontend
 cd ../frontend
 npm install
 
 
-Step : 3 Run project 
-# Backend
+#Step : 3 Run project 
+- Backend
 cd backend
 npm run start:dev
 
-# Frontend
+- Frontend
 cd ../frontend
 npm run dev
 
